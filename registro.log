@@ -1,0 +1,5 @@
+[94m2026-01-28 20:17:36 | DEBUG | telegram.py | mensaje debug[0m
+[92m2026-01-28 20:17:37 | INFO | telegram.py | mensaje info[0m
+[93m2026-01-28 20:17:38 | WARNING | telegram.py | mensaje advertencia[0m
+[91m2026-01-28 20:17:39 | ERROR | telegram.py | mensaje error[0m
+[95m2026-01-28 20:17:40 | CRITICAL | telegram.py | mensaje crítico[0m
